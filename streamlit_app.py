@@ -109,23 +109,6 @@ content_data = {
             "뻔해도 행복",
             "구교관 아니고"
         ]
-    },
-    labels[2]: {
-        'images': [
-            "https://via.placeholder.com/300?text=Label3_Image1",
-            "https://via.placeholder.com/300?text=Label3_Image2",
-            "https://via.placeholder.com/300?text=Label3_Image3"
-        ],
-        'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
-        ],
-        'texts': [
-            "신",
-            "흑발 너무 좋아...",
-            "좋아"
-        ]
     }
 }
 
