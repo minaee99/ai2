@@ -79,8 +79,8 @@ st.markdown("""
 content_data = {
     labels[0]: {
         'images': [
-            "https://i.ibb.co/3F3msyH/7-07842.jpg",
-            "https://i.ibb.co/b2D0Xz7/8-0036722.jpg",
+            "https://i.ibb.co/Yf8FXHy/10-03379.jpg",
+            "https://i.ibb.co/kJ1GDyN/10-04781.jpg",
             "https://i.ibb.co/xC26zw5/8-02572.jpg"
         ],
         'videos': [
@@ -98,7 +98,7 @@ content_data = {
         'images': [
             "https://via.placeholder.com/300?text=Label2_Image1",
             "https://via.placeholder.com/300?text=Label2_Image2",
-            "https://via.placeholder.com/300?text=Label2_Image3"
+            "https://i.ibb.co/smrz37s/11-02262.jpg"
         ],
         'videos': [
             "https://youtu.be/HKSg0SZSMlw?feature=shared",
