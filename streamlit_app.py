@@ -85,8 +85,8 @@ content_data = {
         ],
         'videos': [
             "https://youtu.be/cEz8EHHU5W4?feature=shared",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://youtu.be/SI6a-cQktpo?feature=shared",
+            "https://youtu.be/MQiSynlEzAw?feature=shared"
         ],
         'texts': [
             "현저하게 작은 그림: 억제, 소심, 무능력함, ",
@@ -101,9 +101,9 @@ content_data = {
             "https://via.placeholder.com/300?text=Label2_Image3"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
+            "https://youtu.be/HKSg0SZSMlw?feature=shared",
+            "https://youtu.be/BFaWu_g3Ckk?feature=shared",
+            "https://youtu.be/gjchrMEYf6w?feature=shared"
         ],
         'texts': [
             "지나치게 큰 그림: 공격적, 행동화 경향, 낙천적, 과장적 경향",
