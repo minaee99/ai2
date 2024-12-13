@@ -89,9 +89,9 @@ content_data = {
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
         ],
         'texts': [
-            "강해린 이상하다",
-            "돈까스요",
-            "웅."
+            "현저하게 작은 그림",
+            "억제, 소심, 무능력함",
+            "멀리 떨어진 집. 집과 떨어지고 싶다는 소망 암시"
         ]
     },
     labels[1]: {
@@ -106,9 +106,9 @@ content_data = {
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "구교환적 사고: 주인공 서사다!",
+            "집 크기가 크다",
             "뻔해도 행복",
-            "구교관 아니고"
+            ""
         ]
     }
 }
